@@ -38,7 +38,7 @@ con especial interés en **programación**, **tecnología** e **inteligencia art
 ## Proyectos Destacados
 
 ### Aplicacion Web para agendar tareas 
-HTML · CSS · JavaScript
+HTML · CSS · JavaScript 
 👉 https://alberto1682.github.io/AppWeb_Tareas
 
 ### Responsive Gallery  
@@ -46,7 +46,7 @@ HTML · CSS · JavaScript
 👉 https://github.com/ALBERTO1682/proyecto_gallery_resp  
 
 ### Landing page
-HTML · CSS
+HTML · CSS 
 👉 https://alberto1682.github.io/proyecto_final
 
 ### Portfolio Web  
