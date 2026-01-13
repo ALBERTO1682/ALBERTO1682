@@ -1,123 +1,91 @@
-<!-- ================= BANNER ================= -->
-<p align="center">
-  <img src="assets/banner.png" alt="Banner Alberto" width="100%">
-</p>
+<!-- HEADER -->
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=¡Hola!%20Soy%20Alberto%20👋&fontSize=50&fontAlignY=35&desc=Aspiring%20Web%20Developer%20-%20Técnico%20de%20Calidad&descSize=20&descAlignY=55&animation=fadeIn)
 
-<h1 align="center">¡Hola! Soy Alberto</h1>
-<h3 align="center">Aspiring Web Developer · Técnico de Calidad</h3>
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%2013%20ene%202026%2C%2020_42_15-4vFBs2nO648uqNFJIQXmmSktRik9rL.png" width="300" alt="Alberto Avatar"/>
 
-<p align="center">
-  Tengo 23 años y estoy en proceso de convertirme en desarrollador web.
-</p>
+  ### 💻 Tengo 23 años y estoy en proceso de convertirme en desarrollador web.
 
----
-
-<!-- ================= SOBRE MI ================= -->
-<table>
-<tr>
-<td width="60%">
-
-## Sobre mí
-
-Soy una persona creativa y apasionada por el desarrollo web.  
-Actualmente me estoy formando en **ConquerBlocks** y también por cuenta propia.
-
-Trabajo como **Técnico de Calidad**, pero mi objetivo es evolucionar hacia  
-**Desarrollador Web**, creciendo cada día en programación y tecnología.
-
-Me interesa especialmente el mundo de la **Inteligencia Artificial**  
-y cómo aplicarla al desarrollo web.
-
-</td>
-<td width="40%" align="center">
-  <img src="assets/avatar.png" alt="Avatar Alberto" width="250">
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ================= HABILIDADES ================= -->
-## Habilidades y Tecnologías
+## 👨‍💻 Sobre mí
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="55"/>
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-</p>
-
-<p align="center">
-  <!-- ICONO IA personalizado -->
-  <img src="https://img.shields.io/badge/IA-Artificial%20Intelligence-6f42c1?style=for-the-badge"/>
-</p>
+- 🎨 **Creativo** y apasionado por el desarrollo web.
+- ✅ Aprendiendo en **ConquerBlocks** y por cuenta propia.
+- 🚀 Técnico de **Calidad** en busca de ser **Desarrollador Web**.
+- 💡 Me interesa la programación, la tecnología y la inteligencia artificial.
 
 ---
 
-<!-- ================= PROYECTOS ================= -->
-## Proyectos Destacados
+## 🚀 Habilidades y Tecnologías
 
-<table>
-<tr>
-<td align="center">
-  <img src="assets/project-spa.png" width="220"><br>
-  <b>Spa Beauty Landing Page</b><br>
-  HTML · CSS<br>
-  <a href="https://github.com/ALBERTO1682/Proyecto_Spa-Beauty">Ver proyecto</a>
-</td>
+<div align="center">
 
-<td align="center">
-  <img src="assets/project-gallery.png" width="220"><br>
-  <b>Responsive Gallery</b><br>
-  HTML · CSS · JS<br>
-  <a href="https://github.com/ALBERTO1682/proyecto_gallery_resp">Ver proyecto</a>
-</td>
-</tr>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<tr>
-<td align="center">
-  <img src="assets/project-css.png" width="220"><br>
-  <b>CSS Projects Collection</b><br>
-  CSS<br>
-  <a href="https://github.com/ALBERTO1682/ProyectosCSS">Ver proyecto</a>
-</td>
-
-<td align="center">
-  <img src="assets/project-portfolio.png" width="220"><br>
-  <b>Portfolio Web</b><br>
-  <a href="#">Añade aquí tu enlace</a>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ================= EN QUE ESTOY ================= -->
-## En qué estoy trabajando ahora
+## 🏆 Proyectos Destacados
 
-- Aprendiendo **JavaScript** y **Python**
-- Explorando **Inteligencia Artificial**
-- Mejorando mi **portfolio**
-- Buscando oportunidades como **desarrollador web junior**
+<div align="center">
 
----
+| 🌸 Spa Beauty Landing Page | 🖼️ Responsive Gallery |
+|:---:|:---:|
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [🔗 Ver Proyecto](https://github.com/ALBERTO1682/Proyecto_Spa-Beauty) | [🔗 Ver Proyecto](https://github.com/ALBERTO1682/proyecto_gallery_resp) |
 
-<!-- ================= CONTACTO ================= -->
-## ¡Contáctame!
+| ✨ CSS Projects Collection | 💼 Portfolio Web |
+|:---:|:---:|
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [🔗 Ver Proyecto](https://github.com/ALBERTO1682/ProyectosCSS) | 🔜 *Próximamente* |
 
-<p align="center">
-  <a href="mailto:albertoquality23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/albertopdlacruz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.albertopardo.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  ✨ Cada día aprendiendo, cada proyecto creciendo. ✨
-</p>
+## 📬 ¡Contáctame!
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ALBERTO1682-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALBERTO1682)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+
+</div>
+
+---
+
+<div align="center">
+
+  ### ✨ *Cada día aprendiendo, cada proyecto creciendo.* ✨
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer)
+
+</div>
+\`\`\`
+
+---
+
+He creado tu README de GitHub Profile siguiendo el diseño de la imagen:
+
+✅ **Header** con degradado y tu nombre  
+✅ **Sección "Sobre mí"** con los puntos exactos de la imagen  
+✅ **Badges de tecnologías** (HTML5, CSS3, JavaScript, GitHub, AI)  
+✅ **Proyectos destacados** en formato tabla con sus enlaces reales  
+✅ **Sección de contacto** con botones de redes  
+✅ **Frase final** "Cada día aprendiendo, cada proyecto creciendo"
+
+Solo tendrías que:
+1. Actualizar el enlace de email y LinkedIn con tus datos reales
+2. Añadir el enlace del Portfolio Web cuando lo tengas listo
+
+¿Quieres que ajuste algo del diseño o añada más secciones?
