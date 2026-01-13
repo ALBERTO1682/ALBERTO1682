@@ -1,86 +1,123 @@
-<div align="center">
+<!-- ================= BANNER ================= -->
+<p align="center">
+  <img src="assets/banner.png" alt="Banner Alberto" width="100%">
+</p>
 
-# ¡Hola! Soy Alberto 👋
-### Aspiring Web Developer - Técnico de Calidad
+<h1 align="center">¡Hola! Soy Alberto</h1>
+<h3 align="center">Aspiring Web Developer · Técnico de Calidad</h3>
 
-> **Tengo 23 años y estoy en proceso de convertirme en desarrollador web.**
-
-<img src="https://tu-usuario.github.io/tu-repo/img/banner.png" width="100%" alt="Banner Alberto">
-
-</div>
-
----
-
-## 👤 Sobre mí
-
-<table border="0">
-  <tr>
-    <td width="300">
-      <img src="https://tu-usuario.github.io/tu-repo/img/avatar.png" width="250" alt="Alberto Avatar">
-    </td>
-    <td>
-      <ul>
-        <li>🎨 <b>Creativo</b> y apasionado por el desarrollo web.</li>
-        <li>📚 Aprendiendo en <b>ConquerBlocks</b> y por cuenta propia.</li>
-        <li>🚀 Técnico de <b>Calidad</b> en busca de ser <b>Desarrollador Web</b>.</li>
-        <li>🤖 Me interesa la programación, la tecnología y la <b>inteligencia artificial</b>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Habilidades y Tecnologías
-
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Intelligence-blueviolet?style=for-the-badge" />
+<p align="center">
+  Tengo 23 años y estoy en proceso de convertirme en desarrollador web.
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+<!-- ================= SOBRE MI ================= -->
+<table>
+<tr>
+<td width="60%">
 
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/ALBERTO1682/Proyecto_Spa-Beauty">
-        <img src="https://img.shields.io/badge/Project-Spa_Beauty_Landing-blue?style=flat-square&logo=github" alt="Spa Beauty">
-      </a>
-      <br><i>HTML • CSS</i>
-    </td>
-    <td>
-      <a href="https://github.com/ALBERTO1682/proyecto_gallery_resp">
-        <img src="https://img.shields.io/badge/Project-Responsive_Gallery-green?style=flat-square&logo=github" alt="Gallery">
-      </a>
-      <br><i>HTML • CSS • JS</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ALBERTO1682/ProyectosCSS">
-        <img src="https://img.shields.io/badge/Project-CSS_Collection-orange?style=flat-square&logo=github" alt="CSS Projects">
-      </a>
-      <br><i>CSS</i>
-    </td>
-    <td>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Project-Portfolio_Web-red?style=flat-square&logo=github" alt="Portfolio">
-      </a>
-      <br><i>En construcción</i>
-    </td>
-  </tr>
+## Sobre mí
+
+Soy una persona creativa y apasionada por el desarrollo web.  
+Actualmente me estoy formando en **ConquerBlocks** y también por cuenta propia.
+
+Trabajo como **Técnico de Calidad**, pero mi objetivo es evolucionar hacia  
+**Desarrollador Web**, creciendo cada día en programación y tecnología.
+
+Me interesa especialmente el mundo de la **Inteligencia Artificial**  
+y cómo aplicarla al desarrollo web.
+
+</td>
+<td width="40%" align="center">
+  <img src="assets/avatar.png" alt="Avatar Alberto" width="250">
+</td>
+</tr>
 </table>
 
 ---
 
-## 📬 ¡Contáctame!
+<!-- ================= HABILIDADES ================= -->
+## Habilidades y Tecnologías
 
-<div align="center">
-  <img src="https://tu-usuario.github.io/tu-repo/img/contact-avatar.png" width="300">
-  <p>✨ <b>Cada día aprendiendo, cada proyecto creciendo.</b> ✨</p>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+</p>
+
+<p align="center">
+  <!-- ICONO IA personalizado -->
+  <img src="https://img.shields.io/badge/IA-Artificial%20Intelligence-6f42c1?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ================= PROYECTOS ================= -->
+## Proyectos Destacados
+
+<table>
+<tr>
+<td align="center">
+  <img src="assets/project-spa.png" width="220"><br>
+  <b>Spa Beauty Landing Page</b><br>
+  HTML · CSS<br>
+  <a href="https://github.com/ALBERTO1682/Proyecto_Spa-Beauty">Ver proyecto</a>
+</td>
+
+<td align="center">
+  <img src="assets/project-gallery.png" width="220"><br>
+  <b>Responsive Gallery</b><br>
+  HTML · CSS · JS<br>
+  <a href="https://github.com/ALBERTO1682/proyecto_gallery_resp">Ver proyecto</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="assets/project-css.png" width="220"><br>
+  <b>CSS Projects Collection</b><br>
+  CSS<br>
+  <a href="https://github.com/ALBERTO1682/ProyectosCSS">Ver proyecto</a>
+</td>
+
+<td align="center">
+  <img src="assets/project-portfolio.png" width="220"><br>
+  <b>Portfolio Web</b><br>
+  <a href="#">Añade aquí tu enlace</a>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= EN QUE ESTOY ================= -->
+## En qué estoy trabajando ahora
+
+- Aprendiendo **JavaScript** y **Python**
+- Explorando **Inteligencia Artificial**
+- Mejorando mi **portfolio**
+- Buscando oportunidades como **desarrollador web junior**
+
+---
+
+<!-- ================= CONTACTO ================= -->
+## ¡Contáctame!
+
+<p align="center">
+  <a href="mailto:albertoquality23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/albertopdlacruz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.albertopardo.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Cada día aprendiendo, cada proyecto creciendo. ✨
+</p>
+
