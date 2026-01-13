@@ -1,87 +1,86 @@
-<h1 align="center">¡Hola! Soy Alberto 👋</h1>
-<h3 align="center">Aspiring Web Developer · Técnico de Calidad</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
-</p>
+# ¡Hola! Soy Alberto 👋
+### Aspiring Web Developer - Técnico de Calidad
 
-<p align="center">
-  Tengo 23 años y estoy en proceso de convertirme en desarrollador web.  
-  Me apasiona la tecnología, la creatividad y el aprendizaje constante.
-</p>
+> **Tengo 23 años y estoy en proceso de convertirme en desarrollador web.**
 
----
+<img src="https://tu-usuario.github.io/tu-repo/img/banner.png" width="100%" alt="Banner Alberto">
 
-## Sobre mí
-
-Soy una persona creativa, curiosa y con muchas ganas de crecer en el mundo del desarrollo web.  
-Actualmente me estoy formando en **ConquerBlocks** y también de manera autodidacta.
-
-Trabajo como **Técnico de Calidad**, pero mi objetivo profesional es evolucionar hacia el perfil de  
-**Desarrollador Web**, combinando disciplina, creatividad y ganas de aprender cada día.
-
-Tengo conocimientos básicos en desarrollo frontend y estoy ampliando mis habilidades poco a poco,  
-con especial interés en **programación**, **tecnología** e **inteligencia artificial**.
+</div>
 
 ---
 
-## Habilidades y Tecnologías
+## 👤 Sobre mí
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,github,python" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IA-Inteligencia%20Artificial-6f42c1?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
----
-
-## Proyectos Destacados
-
-### Spa Beauty Landing Page  
-HTML · CSS  
-👉 https://github.com/ALBERTO1682/Proyecto_Spa-Beauty  
-
-### Responsive Gallery  
-HTML · CSS · JavaScript  
-👉 https://github.com/ALBERTO1682/proyecto_gallery_resp  
-
-### CSS Projects Collection  
-CSS  
-👉 https://github.com/ALBERTO1682/ProyectosCSS  
-
-### Portfolio Web  
-👉 (añade aquí el enlace a tu web cuando quieras)
+<table border="0">
+  <tr>
+    <td width="300">
+      <img src="https://tu-usuario.github.io/tu-repo/img/avatar.png" width="250" alt="Alberto Avatar">
+    </td>
+    <td>
+      <ul>
+        <li>🎨 <b>Creativo</b> y apasionado por el desarrollo web.</li>
+        <li>📚 Aprendiendo en <b>ConquerBlocks</b> y por cuenta propia.</li>
+        <li>🚀 Técnico de <b>Calidad</b> en busca de ser <b>Desarrollador Web</b>.</li>
+        <li>🤖 Me interesa la programación, la tecnología y la <b>inteligencia artificial</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## En qué estoy trabajando ahora
+## 🛠️ Habilidades y Tecnologías
 
-- Aprendiendo **JavaScript** y **Python**  
-- Mejorando mi **portfolio personal**  
-- Explorando el mundo de la **Inteligencia Artificial**  
-- Buscando oportunidades para crecer como **desarrollador web junior**  
-- Abierto a colaborar en proyectos y seguir aprendiendo
-
----
-
-## Contacto
-
-<p align="center">
-  <a href="mailto:albertoquality23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/albertopdlacruz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.albertopardo.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Intelligence-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">
-  “Cada día aprendiendo, cada proyecto creciendo.”
-</p>
+## 🚀 Proyectos Destacados
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/ALBERTO1682/Proyecto_Spa-Beauty">
+        <img src="https://img.shields.io/badge/Project-Spa_Beauty_Landing-blue?style=flat-square&logo=github" alt="Spa Beauty">
+      </a>
+      <br><i>HTML • CSS</i>
+    </td>
+    <td>
+      <a href="https://github.com/ALBERTO1682/proyecto_gallery_resp">
+        <img src="https://img.shields.io/badge/Project-Responsive_Gallery-green?style=flat-square&logo=github" alt="Gallery">
+      </a>
+      <br><i>HTML • CSS • JS</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ALBERTO1682/ProyectosCSS">
+        <img src="https://img.shields.io/badge/Project-CSS_Collection-orange?style=flat-square&logo=github" alt="CSS Projects">
+      </a>
+      <br><i>CSS</i>
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Project-Portfolio_Web-red?style=flat-square&logo=github" alt="Portfolio">
+      </a>
+      <br><i>En construcción</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 ¡Contáctame!
+
+<div align="center">
+  <img src="https://tu-usuario.github.io/tu-repo/img/contact-avatar.png" width="300">
+  <p>✨ <b>Cada día aprendiendo, cada proyecto creciendo.</b> ✨</p>
+</div>
