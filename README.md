@@ -1,24 +1,17 @@
+<!-- HEADER con capsule-render -->
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="./assets/header-banner.png" width="100%" alt="Header Banner"/>
-
-# ¡Hola! Soy Alberto 👋
-
-### *Aspiring Web Developer* - Técnico de Calidad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=¡Hola!%20Soy%20Alberto%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Web%20Developer%20-%20Técnico%20de%20Calidad&descSize=18&descAlignY=55" width="100%"/>
 
 <br/>
 
-> 💬 Tengo 23 años y estoy en proceso de convertirme en desarrollador web.
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Tengo+23+a%C3%B1os+y+estoy+en+proceso+de;convertirme+en+desarrollador+web+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- SOBRE MÍ -->
-## <img src="./assets/avatar-small.png" width="35" height="35" style="border-radius: 50%"/> Sobre mí
+## 👤 Sobre mí
 
 🎨 **Creativo** y apasionado por el desarrollo web.
 
@@ -30,7 +23,6 @@
 
 ---
 
-<!-- HABILIDADES Y TECNOLOGÍAS -->
 ## 🚀 Habilidades y Tecnologías
 
 <p align="center">
@@ -43,75 +35,38 @@
 
 ---
 
-<!-- PROYECTOS DESTACADOS -->
 ## 👨‍💻 Proyectos Destacados
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
 
-<img src="./assets/project-spa-beauty.png" width="300" alt="Spa Beauty"/>
+| 💆 Spa Beauty Landing Page | 🖼️ Responsive Gallery |
+|:---:|:---:|
+| [![Spa Beauty](https://github-readme-stats.vercel.app/api/pin/?username=ALBERTO1682&repo=Proyecto_Spa-Beauty&theme=tokyonight&hide_border=true)](https://github.com/ALBERTO1682/Proyecto_Spa-Beauty) | [![Gallery](https://github-readme-stats.vercel.app/api/pin/?username=ALBERTO1682&repo=proyecto_gallery_resp&theme=tokyonight&hide_border=true)](https://github.com/ALBERTO1682/proyecto_gallery_resp) |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
-### 💆 Spa Beauty Landing Page
+| ✨ CSS Projects Collection | 💻 Portfolio Web |
+|:---:|:---:|
+| [![CSS Projects](https://github-readme-stats.vercel.app/api/pin/?username=ALBERTO1682&repo=ProyectosCSS&theme=tokyonight&hide_border=true)](https://github.com/ALBERTO1682/ProyectosCSS) | 🔗 *Próximamente* |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-[🔗 Ver Proyecto](https://github.com/ALBERTO1682/Proyecto_Spa-Beauty)
-
-</td>
-<td width="50%" align="center">
-
-<img src="./assets/project-gallery.png" width="300" alt="Responsive Gallery"/>
-
-### 🖼️ Responsive Gallery
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[🔗 Ver Proyecto](https://github.com/ALBERTO1682/proyecto_gallery_resp)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<img src="./assets/project-css.png" width="300" alt="CSS Projects"/>
-
-### ✨ CSS Projects Collection
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-[🔗 Ver Proyecto](https://github.com/ALBERTO1682/ProyectosCSS)
-
-</td>
-<td width="50%" align="center">
-
-<img src="./assets/project-portfolio.png" width="300" alt="Portfolio Web"/>
-
-### 💻 Portfolio Web
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-🔗 *Próximamente*
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
 
-<!-- CONTACTO -->
-## 🤝 ¡Contáctame!
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="./assets/contact-avatar.png" width="350" alt="Contact Avatar"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ALBERTO1682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALBERTO1682&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
 
-<br/><br/>
+</div>
+
+---
+
+## 🤝 ¡Contáctame!
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
@@ -123,11 +78,8 @@
 
 <div align="center">
 
-### ✨ *Cada día aprendiendo, cada proyecto creciendo.* ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=footer&text=✨%20Cada%20día%20aprendiendo,%20cada%20proyecto%20creciendo%20✨&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
-<br/>
-
-![Visitas](https://komarev.com/ghpvc/?username=ALBERTO1682&color=blueviolet&style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=ALBERTO1682&color=6C63FF&style=flat-square&label=Visitas+al+perfil)
 
 </div>
-
